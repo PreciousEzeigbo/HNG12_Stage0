@@ -21,15 +21,14 @@ python app.py or python3 app.py
 ```
 Access via ```http://127.0.0.1:5000/```
 
-## API Endpoint  
+## API Endpoint Samole Response
 ### **GET /**  
 Returns:  
 
-```json
-{
-  "email": "your-email@example.com",
-  "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/PreciousEzeigbo/HNG12_Stage0"
+```json{
+    "email": "your-email@example.com",
+    "current_datetime": "2025-01-30T09:30:00Z",
+    "github_url": "https://github.com/yourusername/your-repo"
 }
 ```
 
