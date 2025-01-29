@@ -12,7 +12,8 @@ Python (Flask)
 
 Clone the repository:
 ```
-git clone https://github.com/PreciousEzeigbo/HNG12_Stage0
+git clone https://github.com/PreciousEzeigbo/HNG12_Stage0.git
+cd HNG12_Stage0
 ```
 Install dependencies:
 ```
@@ -34,6 +35,10 @@ Returns:
     "github_url": "https://github.com/yourusername/your-repo"
 }
 ```
+# Deployment
+Render was used for deploying:
+https://hng12-stage0-f4ni.onrender.com
+
 
 # Useful Links
 https://hng.tech/hire/python-developers
