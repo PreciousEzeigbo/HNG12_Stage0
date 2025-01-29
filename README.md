@@ -5,6 +5,9 @@ A simple Flask API for the HNG12 Stage 0 task that returns:
 - Current datetime in ISO 8601 format  
 - GitHub URL of the project  
 
+# Technologies Used
+Python (Flask)
+
 # Setup Instructions
 
 Clone the repository:
@@ -21,7 +24,7 @@ python app.py or python3 app.py
 ```
 Access via ```http://127.0.0.1:5000/```
 
-## API Endpoint Samole Response
+## API Endpoint Sample Response
 ### **GET /**  
 Returns:  
 
